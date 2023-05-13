@@ -1,6 +1,6 @@
 # NeoAsh!
 ## A catppuccin themed IDE layer for neovim
-![dashboard](screenshot-2023-05-13_12:37:46.png)
+![dashboard](https://github.com/BeelzebubOfGluttony/NeoAsh/blob/master/screenshot-2023-05-13_12:37:46.png)
 
 # Requirements
 1. Terminal with TermGUI Colors
