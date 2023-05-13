@@ -11,4 +11,4 @@
 # Installation 
 ### Linux
 ##### run this command in your terminal of choice
-`git clone https://github.com/BeelzebubOfGluttony/NeoAsh.git ~/.config/nvim/`
+`git clone https://github.com/BeelzebubOfGluttony/NeoAsh.git ~/.config/
