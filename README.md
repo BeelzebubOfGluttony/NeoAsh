@@ -11,4 +11,15 @@
 # Installation 
 ### Linux
 ##### run this command in your terminal of choice
-`git clone https://github.com/BeelzebubOfGluttony/NeoAsh.git ~/.config/
+
+Clone the repository into the correct location (make a backup your current nvim directory if you want to).
+
+
+`mkdir ~/.config/nvim`
+`git clone https://github.com/BeelzebubOfGluttony/NeoAsh.git ~/.config/nvim`
+
+run `nvim` in the terminal and let it install all the plugins needed.
+Use `:Mason` to install you LSP servers and linters
+
+Now you're done! good job and I hope you're coding journey well.
+(ps. if you're having issues run `:checkhealth`)
